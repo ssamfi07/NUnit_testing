@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HF/ITuWU+jtgmW7yd9TNyhLY1/G29ie3+JURgvQ3ObBupsttKyPY2eMqbvI2DxQiKu5dX22YbYcgK69yXVNI9g==",
+  "dgSpecHash": "TYex07IP6Y8Yfb4U3c3RU6dqNKc8L0TLf6eF3ZkWc6bXO65c7xzFYNsVNjXBSxb8drqfbx0jcYNN98Nm5vcjtA==",
   "success": true,
-  "projectFilePath": "/home/sstef/Documents/Faculta/tas/tema_c#/tema/Account/Account.csproj",
+  "projectFilePath": "/home/sstef/Documents/Faculta/tas/tema_c#/tema/NUnit_testing/Account/Account.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

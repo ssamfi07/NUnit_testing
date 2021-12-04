@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/sstef/Documents/Faculta/tas/tema_c#/tema/Account/Account.csproj": {}
+    "/home/sstef/Documents/Faculta/tas/tema_c#/tema/NUnit_testing/Account/Account.csproj": {}
   },
   "projects": {
-    "/home/sstef/Documents/Faculta/tas/tema_c#/tema/Account/Account.csproj": {
+    "/home/sstef/Documents/Faculta/tas/tema_c#/tema/NUnit_testing/Account/Account.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/sstef/Documents/Faculta/tas/tema_c#/tema/Account/Account.csproj",
+        "projectUniqueName": "/home/sstef/Documents/Faculta/tas/tema_c#/tema/NUnit_testing/Account/Account.csproj",
         "projectName": "Account",
-        "projectPath": "/home/sstef/Documents/Faculta/tas/tema_c#/tema/Account/Account.csproj",
+        "projectPath": "/home/sstef/Documents/Faculta/tas/tema_c#/tema/NUnit_testing/Account/Account.csproj",
         "packagesPath": "/home/sstef/.nuget/packages/",
-        "outputPath": "/home/sstef/Documents/Faculta/tas/tema_c#/tema/Account/obj/",
+        "outputPath": "/home/sstef/Documents/Faculta/tas/tema_c#/tema/NUnit_testing/Account/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/sstef/.nuget/NuGet/NuGet.Config"

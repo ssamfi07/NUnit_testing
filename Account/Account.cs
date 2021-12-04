@@ -40,7 +40,7 @@ namespace bank
 
         public Account TransferMinFunds(Account destination, float amount)
         {
-            if (Balance - amount > MinBalance)
+            if (Balance - amount > MinBalance && amount > 00F)
             {
                 destination.Deposit(amount);
                 Withdraw(amount);

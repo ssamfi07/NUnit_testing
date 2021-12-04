@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ioFsgmQmu2YQ/7FkEHaq0I4nEW0vUUA9NiNlenXnSEX/34rOl6Uj7hZASmUpuzIzpRZHECfmOkR/KAmj+8dL3w==",
+  "dgSpecHash": "HwW0qFszhwYcLSz+lgUQjnluU9CPah68LrgyzWPVtBnEqWri4D72fJf3lqwLzRSZJY774KfMqC1a8bY0sVfLiA==",
   "success": true,
-  "projectFilePath": "/home/sstef/Documents/Faculta/tas/tema_c#/tema/Account.Tests/Account.Tests.csproj",
+  "projectFilePath": "/home/sstef/Documents/Faculta/tas/tema_c#/tema/NUnit_testing/Account.Tests/Account.Tests.csproj",
   "expectedPackageFiles": [
     "/home/sstef/.nuget/packages/coverlet.collector/3.1.0/coverlet.collector.3.1.0.nupkg.sha512",
     "/home/sstef/.nuget/packages/microsoft.codecoverage/16.11.0/microsoft.codecoverage.16.11.0.nupkg.sha512",

@@ -10,3 +10,15 @@
 /home/sstef/Documents/Faculta/tas/tema_c#/tema/Account/obj/Debug/net6.0/Account.dll
 /home/sstef/Documents/Faculta/tas/tema_c#/tema/Account/obj/Debug/net6.0/ref/Account.dll
 /home/sstef/Documents/Faculta/tas/tema_c#/tema/Account/obj/Debug/net6.0/Account.pdb
+/home/sstef/Documents/Faculta/tas/tema_c#/tema/NUnit_testing/Account/bin/Debug/net6.0/Account.deps.json
+/home/sstef/Documents/Faculta/tas/tema_c#/tema/NUnit_testing/Account/bin/Debug/net6.0/Account.dll
+/home/sstef/Documents/Faculta/tas/tema_c#/tema/NUnit_testing/Account/bin/Debug/net6.0/ref/Account.dll
+/home/sstef/Documents/Faculta/tas/tema_c#/tema/NUnit_testing/Account/bin/Debug/net6.0/Account.pdb
+/home/sstef/Documents/Faculta/tas/tema_c#/tema/NUnit_testing/Account/obj/Debug/net6.0/Account.csproj.AssemblyReference.cache
+/home/sstef/Documents/Faculta/tas/tema_c#/tema/NUnit_testing/Account/obj/Debug/net6.0/Account.GeneratedMSBuildEditorConfig.editorconfig
+/home/sstef/Documents/Faculta/tas/tema_c#/tema/NUnit_testing/Account/obj/Debug/net6.0/Account.AssemblyInfoInputs.cache
+/home/sstef/Documents/Faculta/tas/tema_c#/tema/NUnit_testing/Account/obj/Debug/net6.0/Account.AssemblyInfo.cs
+/home/sstef/Documents/Faculta/tas/tema_c#/tema/NUnit_testing/Account/obj/Debug/net6.0/Account.csproj.CoreCompileInputs.cache
+/home/sstef/Documents/Faculta/tas/tema_c#/tema/NUnit_testing/Account/obj/Debug/net6.0/Account.dll
+/home/sstef/Documents/Faculta/tas/tema_c#/tema/NUnit_testing/Account/obj/Debug/net6.0/ref/Account.dll
+/home/sstef/Documents/Faculta/tas/tema_c#/tema/NUnit_testing/Account/obj/Debug/net6.0/Account.pdb
