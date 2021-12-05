@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/home/sstef/Documents/Faculta/tas/tema_c#/tema/NUnit_testing/Account.Tests/Account.Tests.csproj": {}
+    "C:\\Users\\sstef\\Documents\\Faculta\\tas\\tema\\NUnit_testing\\Account.Tests\\Account.Tests.csproj": {}
   },
   "projects": {
-    "/home/sstef/Documents/Faculta/tas/tema_c#/tema/NUnit_testing/Account.Tests/Account.Tests.csproj": {
+    "C:\\Users\\sstef\\Documents\\Faculta\\tas\\tema\\NUnit_testing\\Account.Tests\\Account.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/sstef/Documents/Faculta/tas/tema_c#/tema/NUnit_testing/Account.Tests/Account.Tests.csproj",
+        "projectUniqueName": "C:\\Users\\sstef\\Documents\\Faculta\\tas\\tema\\NUnit_testing\\Account.Tests\\Account.Tests.csproj",
         "projectName": "Account.Tests",
-        "projectPath": "/home/sstef/Documents/Faculta/tas/tema_c#/tema/NUnit_testing/Account.Tests/Account.Tests.csproj",
-        "packagesPath": "/home/sstef/.nuget/packages/",
-        "outputPath": "/home/sstef/Documents/Faculta/tas/tema_c#/tema/NUnit_testing/Account.Tests/obj/",
+        "projectPath": "C:\\Users\\sstef\\Documents\\Faculta\\tas\\tema\\NUnit_testing\\Account.Tests\\Account.Tests.csproj",
+        "packagesPath": "C:\\Users\\sstef\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sstef\\Documents\\Faculta\\tas\\tema\\NUnit_testing\\Account.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/sstef/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\sstef\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -26,8 +26,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "/home/sstef/Documents/Faculta/tas/tema_c#/tema/NUnit_testing/Account/Account.csproj": {
-                "projectPath": "/home/sstef/Documents/Faculta/tas/tema_c#/tema/NUnit_testing/Account/Account.csproj"
+              "C:\\Users\\sstef\\Documents\\Faculta\\tas\\tema\\NUnit_testing\\Account\\Account.csproj": {
+                "projectPath": "C:\\Users\\sstef\\Documents\\Faculta\\tas\\tema\\NUnit_testing\\Account\\Account.csproj"
               }
             }
           }
@@ -74,21 +74,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/snap/dotnet-sdk/150/sdk/6.0.100/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/home/sstef/Documents/Faculta/tas/tema_c#/tema/NUnit_testing/Account/Account.csproj": {
+    "C:\\Users\\sstef\\Documents\\Faculta\\tas\\tema\\NUnit_testing\\Account\\Account.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/sstef/Documents/Faculta/tas/tema_c#/tema/NUnit_testing/Account/Account.csproj",
+        "projectUniqueName": "C:\\Users\\sstef\\Documents\\Faculta\\tas\\tema\\NUnit_testing\\Account\\Account.csproj",
         "projectName": "Account",
-        "projectPath": "/home/sstef/Documents/Faculta/tas/tema_c#/tema/NUnit_testing/Account/Account.csproj",
-        "packagesPath": "/home/sstef/.nuget/packages/",
-        "outputPath": "/home/sstef/Documents/Faculta/tas/tema_c#/tema/NUnit_testing/Account/obj/",
+        "projectPath": "C:\\Users\\sstef\\Documents\\Faculta\\tas\\tema\\NUnit_testing\\Account\\Account.csproj",
+        "packagesPath": "C:\\Users\\sstef\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sstef\\Documents\\Faculta\\tas\\tema\\NUnit_testing\\Account\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/sstef/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\sstef\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -126,7 +126,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/snap/dotnet-sdk/150/sdk/6.0.100/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

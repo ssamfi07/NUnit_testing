@@ -22,3 +22,15 @@
 /home/sstef/Documents/Faculta/tas/tema_c#/tema/NUnit_testing/Account/obj/Debug/net6.0/Account.dll
 /home/sstef/Documents/Faculta/tas/tema_c#/tema/NUnit_testing/Account/obj/Debug/net6.0/ref/Account.dll
 /home/sstef/Documents/Faculta/tas/tema_c#/tema/NUnit_testing/Account/obj/Debug/net6.0/Account.pdb
+C:\Users\sstef\Documents\Faculta\tas\tema\NUnit_testing\Account\bin\Debug\net6.0\Account.deps.json
+C:\Users\sstef\Documents\Faculta\tas\tema\NUnit_testing\Account\bin\Debug\net6.0\Account.dll
+C:\Users\sstef\Documents\Faculta\tas\tema\NUnit_testing\Account\bin\Debug\net6.0\ref\Account.dll
+C:\Users\sstef\Documents\Faculta\tas\tema\NUnit_testing\Account\bin\Debug\net6.0\Account.pdb
+C:\Users\sstef\Documents\Faculta\tas\tema\NUnit_testing\Account\obj\Debug\net6.0\Account.csproj.AssemblyReference.cache
+C:\Users\sstef\Documents\Faculta\tas\tema\NUnit_testing\Account\obj\Debug\net6.0\Account.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sstef\Documents\Faculta\tas\tema\NUnit_testing\Account\obj\Debug\net6.0\Account.AssemblyInfoInputs.cache
+C:\Users\sstef\Documents\Faculta\tas\tema\NUnit_testing\Account\obj\Debug\net6.0\Account.AssemblyInfo.cs
+C:\Users\sstef\Documents\Faculta\tas\tema\NUnit_testing\Account\obj\Debug\net6.0\Account.csproj.CoreCompileInputs.cache
+C:\Users\sstef\Documents\Faculta\tas\tema\NUnit_testing\Account\obj\Debug\net6.0\Account.dll
+C:\Users\sstef\Documents\Faculta\tas\tema\NUnit_testing\Account\obj\Debug\net6.0\ref\Account.dll
+C:\Users\sstef\Documents\Faculta\tas\tema\NUnit_testing\Account\obj\Debug\net6.0\Account.pdb
