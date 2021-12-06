@@ -10,8 +10,18 @@ public class NotEnoughFundsException : ApplicationException
 
 public class Account
 {
+    public float Balance
+    {
+        get { return balance; }
+    }
+
+    public float MinBalance
+    {
+        get { return minBalance; }
+    }
+
     private float balance;
-    private float minBalance=10;
+    private float minBalance = 10;
 
     public Account()
     {
@@ -64,16 +74,6 @@ public class Account
 
         destination.Deposit(amountInRon);
         Withdraw(amountInRon);
-    }
-
-    public float Balance
-    {
-        get { return balance; }
-    }
-
-    public float MinBalance
-    {
-        get { return minBalance; }
     }
 }
 
