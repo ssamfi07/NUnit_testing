@@ -16,7 +16,7 @@ public class LogMockObject : ILogger
 
     public void Log(String message)
     {
-        performedLogActions.Add("method " + MethodBase.GetCurrentMethod().Name + " was called with message : " + message);
+        performedLogActions.Add("Method " + MethodBase.GetCurrentMethod().Name + " was called with message : " + message);
     }
 
     public void AddExpectedLogMessage(String message)

@@ -55,10 +55,10 @@ public class AccountTestMockFramework
         var destination = new Account(150);
         var rateEurRon = 4.95F;
         var convertorMock = new Mock<ICurrencyConvertor>();
-        convertorMock.Setup(_ => _.EurToRon(20)).Returns(20*rateEurRon);  // set mock to act as a TestDouble Stub - gives IndirectInputs to the SUT
+        convertorMock.Setup(_ => _.EurToRon(20)).Returns( 20 * rateEurRon);  // set mock to act as a TestDouble Stub - gives IndirectInputs to the SUT
 
         // act
-        source.TransferFundsFromEurAccount_version2(destination, 20.00F, convertorMock.Object);
+        source.TransferFundsFromEurAccount(destination, 20.00F, convertorMock.Object);
 
         // assert
         Assert.AreEqual(150.00F + 20 * rateEurRon, destination.Balance);

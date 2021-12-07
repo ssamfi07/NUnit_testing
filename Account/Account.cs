@@ -60,15 +60,7 @@ public class Account
         return destination;
     }
 
-    public void TransferFundsFromEurAccount_version1(Account destination, float amountinEur, float rate)
-    {
-        float amountInRon = amountinEur * rate;
-
-        destination.Deposit(amountInRon);
-        Withdraw(amountInRon);
-    }
-
-    public void TransferFundsFromEurAccount_version2(Account destination, float amountInEur, ICurrencyConvertor convertor)
+    public void TransferFundsFromEurAccount(Account destination, float amountInEur, ICurrencyConvertor convertor)
     {
         float amountInRon = convertor.EurToRon(amountInEur);
 

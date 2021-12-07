@@ -11,16 +11,14 @@ namespace bank
 [TestFixture]
 public class AccountTest
 {
-    Account _source;
-    Account _destination;
+    Account _source = new Account();
+    Account _destination = new Account();
 
     [SetUp]
     public void InitAccount()
     {
         // arrange -- set up the initial values
-        _source = new Account();
         _source.Deposit(200.00F);
-        _destination = new Account();
         _destination.Deposit(150.00F);
     }
 
@@ -92,25 +90,6 @@ public class AccountTest
 
     [Test]
     [Category("pass")]
-    public void TransferFundsFromEurAccount()
-    {
-        // arrange
-        Account source = new Account();
-        source.Deposit(200);
-        Account destination = new Account();
-        destination.Deposit(200);
-        var rate = 4.95F;
-
-        // act
-        source.TransferFundsFromEurAccount_version1(destination, 10, rate);
-
-        // assert
-        Assert.AreEqual(249.5F, destination.Balance);
-        Assert.AreEqual(150.5F, source.Balance);
-    }
-
-    [Test]
-    [Category("pass")]
     public void TransferFundsFromEurAccount2()
     {
         // arrange
@@ -121,7 +100,7 @@ public class AccountTest
         var convertor = new CurrencyConvertorStub(4.95F); // convertor object stub instantiation
 
         // act
-        source.TransferFundsFromEurAccount_version2(destination, 10, convertor);
+        source.TransferFundsFromEurAccount(destination, 10, convertor);
 
         // assert
         Assert.AreEqual(249.5F, destination.Balance);
