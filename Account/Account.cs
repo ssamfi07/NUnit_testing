@@ -1,14 +1,10 @@
-using System;
-using System.Collections.Generic;
-using System.Text;
-
 namespace bank
 {
 public class NotEnoughFundsException : ApplicationException
 {
 }
 
-public class Account
+public class Account : IAccount
 {
     public float Balance
     {
@@ -53,8 +49,7 @@ public class Account
     {
         if (Balance - amount > MinBalance && amount > 00F)
         {
-            destination.Deposit(amount);
-            Withdraw(amount);
+            TransferFunds(destination, amount);
         }
         else throw new NotEnoughFundsException();
         return destination;
@@ -65,7 +60,7 @@ public class Account
         float amountInRon = convertor.EurToRon(amountInEur);
 
         destination.Deposit(amountInRon);
-        Withdraw(amountInRon);
+        Withdraw(amountInEur);
     }
 }
 

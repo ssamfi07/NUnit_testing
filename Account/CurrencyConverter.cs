@@ -1,15 +1,5 @@
-using System;
-using System.Collections.Generic;
-using System.Text;
-
 namespace bank
 {
-public interface ICurrencyConvertor 
-{
-    public float EurToRon(float valueInEur);
-    public float RonToEur(float valueInRon);
-}
-
 public class CurrencyConvertor: ICurrencyConvertor
 {
     float rateEurRon;

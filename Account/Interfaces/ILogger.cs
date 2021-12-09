@@ -1,7 +1,7 @@
 namespace bank
 {
 
-public interface ILogger 
+public interface ILogger
 {
     public void Log(string message);
 };

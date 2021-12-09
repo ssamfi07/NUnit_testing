@@ -1,18 +1,26 @@
 {
   "version": 2,
-  "dgSpecHash": "y2HW3jbLtJTeTYgYHA1zJm9GbvXpJfUd/UxBn0q4wWnAQbugp61mYOI+hh0qNLaILBq/sPh0gE/3nht+X8N4gA==",
+  "dgSpecHash": "OoN87eoRjgrRyzOZy4s8T+a9xiHlJHjfMuLXxu9/2hLdVz1uG8L7u+I27F1PSbDhjO+ummuwlIvFapH6TNBVHg==",
   "success": true,
   "projectFilePath": "C:\\Users\\sstef\\Documents\\Faculta\\tas\\tema\\NUnit_testing\\Account.Tests\\Account.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\sstef\\.nuget\\packages\\castle.core\\4.4.0\\castle.core.4.4.0.nupkg.sha512",
     "C:\\Users\\sstef\\.nuget\\packages\\coverlet.collector\\3.1.0\\coverlet.collector.3.1.0.nupkg.sha512",
+    "C:\\Users\\sstef\\.nuget\\packages\\logger\\1.0.9.3\\logger.1.0.9.3.nupkg.sha512",
     "C:\\Users\\sstef\\.nuget\\packages\\microsoft.codecoverage\\16.11.0\\microsoft.codecoverage.16.11.0.nupkg.sha512",
     "C:\\Users\\sstef\\.nuget\\packages\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",
+    "C:\\Users\\sstef\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\6.0.0\\microsoft.extensions.dependencyinjection.6.0.0.nupkg.sha512",
+    "C:\\Users\\sstef\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\sstef\\.nuget\\packages\\microsoft.extensions.logging\\6.0.0\\microsoft.extensions.logging.6.0.0.nupkg.sha512",
+    "C:\\Users\\sstef\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\sstef\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\sstef\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
     "C:\\Users\\sstef\\.nuget\\packages\\microsoft.net.test.sdk\\16.11.0\\microsoft.net.test.sdk.16.11.0.nupkg.sha512",
     "C:\\Users\\sstef\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\sstef\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
     "C:\\Users\\sstef\\.nuget\\packages\\microsoft.testplatform.objectmodel\\16.11.0\\microsoft.testplatform.objectmodel.16.11.0.nupkg.sha512",
     "C:\\Users\\sstef\\.nuget\\packages\\microsoft.testplatform.testhost\\16.11.0\\microsoft.testplatform.testhost.16.11.0.nupkg.sha512",
+    "C:\\Users\\sstef\\.nuget\\packages\\mongocsharpdriver\\1.8.3\\mongocsharpdriver.1.8.3.nupkg.sha512",
     "C:\\Users\\sstef\\.nuget\\packages\\moq\\4.16.1\\moq.4.16.1.nupkg.sha512",
     "C:\\Users\\sstef\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
     "C:\\Users\\sstef\\.nuget\\packages\\newtonsoft.json\\9.0.1\\newtonsoft.json.9.0.1.nupkg.sha512",
@@ -27,6 +35,7 @@
     "C:\\Users\\sstef\\.nuget\\packages\\system.componentmodel.primitives\\4.3.0\\system.componentmodel.primitives.4.3.0.nupkg.sha512",
     "C:\\Users\\sstef\\.nuget\\packages\\system.componentmodel.typeconverter\\4.3.0\\system.componentmodel.typeconverter.4.3.0.nupkg.sha512",
     "C:\\Users\\sstef\\.nuget\\packages\\system.diagnostics.debug\\4.3.0\\system.diagnostics.debug.4.3.0.nupkg.sha512",
+    "C:\\Users\\sstef\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.0\\system.diagnostics.diagnosticsource.6.0.0.nupkg.sha512",
     "C:\\Users\\sstef\\.nuget\\packages\\system.diagnostics.tools\\4.0.1\\system.diagnostics.tools.4.0.1.nupkg.sha512",
     "C:\\Users\\sstef\\.nuget\\packages\\system.diagnostics.tracesource\\4.3.0\\system.diagnostics.tracesource.4.3.0.nupkg.sha512",
     "C:\\Users\\sstef\\.nuget\\packages\\system.dynamic.runtime\\4.3.0\\system.dynamic.runtime.4.3.0.nupkg.sha512",
@@ -48,6 +57,7 @@
     "C:\\Users\\sstef\\.nuget\\packages\\system.reflection.typeextensions\\4.3.0\\system.reflection.typeextensions.4.3.0.nupkg.sha512",
     "C:\\Users\\sstef\\.nuget\\packages\\system.resources.resourcemanager\\4.3.0\\system.resources.resourcemanager.4.3.0.nupkg.sha512",
     "C:\\Users\\sstef\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512",
+    "C:\\Users\\sstef\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
     "C:\\Users\\sstef\\.nuget\\packages\\system.runtime.extensions\\4.3.0\\system.runtime.extensions.4.3.0.nupkg.sha512",
     "C:\\Users\\sstef\\.nuget\\packages\\system.runtime.handles\\4.3.0\\system.runtime.handles.4.3.0.nupkg.sha512",
     "C:\\Users\\sstef\\.nuget\\packages\\system.runtime.interopservices\\4.3.0\\system.runtime.interopservices.4.3.0.nupkg.sha512",
@@ -62,5 +72,26 @@
     "C:\\Users\\sstef\\.nuget\\packages\\system.xml.xdocument\\4.0.11\\system.xml.xdocument.4.0.11.nupkg.sha512",
     "C:\\Users\\sstef\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Logger 1.0.9.3' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net6.0'. This package may not be fully compatible with your project.",
+      "libraryId": "Logger",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'mongocsharpdriver 1.8.3' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net6.0'. This package may not be fully compatible with your project.",
+      "libraryId": "mongocsharpdriver",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
 }

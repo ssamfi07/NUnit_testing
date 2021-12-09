@@ -224,8 +224,9 @@ var assemblies = [
   {
     "name": "Account",
     "classes": [
-      { "name": "bank.Account", "rp": "Account_Account.html", "cl": 35, "ucl": 0, "cal": 35, "tl": 72, "ct": "LineCoverage", "mc": "-", "cb": 4, "tb": 4, "lch": [], "bch": [], "hc": [] },
-      { "name": "bank.CurrencyConvertor", "rp": "Account_CurrencyConvertor.html", "cl": 0, "ucl": 10, "cal": 10, "tl": 31, "ct": "LineCoverage", "mc": "-", "cb": 0, "tb": 0, "lch": [], "bch": [], "hc": [] },
+      { "name": "bank.Account", "rp": "Account_Account.html", "cl": 11, "ucl": 23, "cal": 34, "tl": 67, "ct": "LineCoverage", "mc": "-", "cb": 0, "tb": 4, "lch": [], "bch": [], "hc": [] },
+      { "name": "bank.CurrencyConvertor", "rp": "Account_CurrencyConvertor.html", "cl": 10, "ucl": 0, "cal": 10, "tl": 21, "ct": "LineCoverage", "mc": "-", "cb": 0, "tb": 0, "lch": [], "bch": [], "hc": [] },
+      { "name": "bank.Logger", "rp": "Account_Logger.html", "cl": 0, "ucl": 3, "cal": 3, "tl": 12, "ct": "LineCoverage", "mc": "-", "cb": 0, "tb": 0, "lch": [], "bch": [], "hc": [] },
     ]},
 ];
 
