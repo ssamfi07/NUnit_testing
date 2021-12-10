@@ -2,6 +2,7 @@ namespace bank
 {
 public class NotEnoughFundsException : ApplicationException
 {
+    public NotEnoughFundsException(){}
 }
 
 public class Account : IAccount
